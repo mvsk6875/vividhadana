@@ -1,4 +1,4 @@
-For a detailed overview and documentation of this project, visit the project site: https://mvsk78971.wixsite.com/vividhadana
+Visit the project site: https://mvsk78971.wixsite.com/vividhadana
 
 
 Page Layouts:
