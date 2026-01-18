@@ -1,21 +1,6 @@
 For a detailed overview and documentation of this project, visit the project site: https://mvsk78971.wixsite.com/vividhadana
 
 
-
-
-
-
-
-
-
-
-
-
-System Design
-The design phase translated requirements into a visual and structural blueprint.
-
-Sitemap & Navigation: Organized content logically to ensure users can easily contact providers.
-
 Page Layouts:
 
 Home Page: Central navigation hub.
